@@ -11,3 +11,9 @@
   </li>
 	</ul>
 </details>
+<div align = "center">
+  <br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goluinocentum&theme=dark)](https://git.io/streak-stats)
+  
+</div>
