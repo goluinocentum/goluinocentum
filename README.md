@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**goluinocentum/goluinocentum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details> 
+	<summary>"About Me!"</summary>
+	<br>
+	<ul>
+  <li>
+    Hello Bugs 
+  </li>
+	</ul>
+</details>
